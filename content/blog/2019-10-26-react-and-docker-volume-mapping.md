@@ -1,5 +1,5 @@
 ---
-title: React and docker volume mapping
+title: React hot reloading and docker volume mapping
 date: 2019-10-26T16:12:36.393Z
 ---
 I encountered a problem when I was setting up a react dev environment.
