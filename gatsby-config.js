@@ -2,8 +2,9 @@ module.exports = {
   siteMetadata: {
     title: `Tonis notes`,
     author: `Toni`,
-    description: `Notes from a developer`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `This is a blog where a software developer shares some trips and tricks around software development`,
+    siteUrl: `https://tonisnotes.com/`,
+    keywords: `developer, software, software developer, javascript, react, reactjs, git, docker, kubernetes, .net, C#, entity framework, webpack, jest, enzyme, test driven development, TDD, agile`,
     social: {
       twitter: `lundbyit`,
     },
