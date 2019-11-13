@@ -1,5 +1,5 @@
 ---
-title: Postgres credentials
+title: PostgreSQL credentials
 date: 2019-11-13T20:13:30.772Z
 ---
 When you set up postgres on your local machine in windows and you want to run psql commands from powershell or commandline you will get:
