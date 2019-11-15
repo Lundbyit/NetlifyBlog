@@ -13,7 +13,11 @@ Join only joins path together. While resolve returns a absolute path.
 e.g
 
 ```
-path.resolve('/path', '/path2');// returns /path2'path.join('/path', '/path2');//returns '/path/path2'
+path.resolve('/path', '/path2'); // returns '/path2'
+```
+
+```
+path.join('/path', '/path2'); //returns '/path/path2'
 ```
 
 https://nodejs.org/docs/latest/api/path.html
